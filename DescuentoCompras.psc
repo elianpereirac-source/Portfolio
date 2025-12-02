@@ -1,3 +1,6 @@
+//Variables entrada: compra
+//Variale salida: totalpagar
+//El problema se trata que si la compra que haga si es posible tendre un descuento tambien.
 Algoritmo DescuentoCompras
 	Definir compra, descuento, totalpagar Como Real;
 	Escribir "insertar el valor de la compra";
@@ -35,3 +38,4 @@ Algoritmo DescuentoCompras
 		Escribir " Total a pagar : ", totalpagar;
 	FinSi
 FinAlgoritmo
+
