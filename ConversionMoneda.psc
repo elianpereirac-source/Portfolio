@@ -1,4 +1,4 @@
-// Escribe una función en pseudocódigo llamada ConversionMoneda (?) que permita convertir una cantidad de dinero dada en dolares, libras o yenes a Euros. Estas son las equivalencias aproximadas:
+// Escribe una funciÃ³n en pseudocÃ³digo llamada ConversionMoneda (?) que permita convertir una cantidad de dinero dada en dolares, libras o yenes a Euros. Estas son las equivalencias aproximadas:
 //1 libra=1,22 euros
 //1 dolar=0,75 euros
 //1 yen=0.009 euros
@@ -41,3 +41,5 @@ Algoritmo ConversionMoneda
 	
 	
 FinAlgoritmo
+
+//Escogi este ejercicio porque estaba empezando y me ayudo a empezar las estructuras selectivas
